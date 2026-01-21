@@ -41,17 +41,5 @@ The HR Dashboard solves these problems by:
 3. **Interactive Exploration**: Drill down into departments, roles, or employee groups using filters and charts.  
 4. **Insights & Recommendations**: Quickly identify high-risk areas and trends to prioritize HR actions.
 
----
 
-## Getting Started (No Technical Expertise Required)
 
-### Step 1: Install Python
-
-Make sure Python is installed on your computer.
-
-### Step 2: Install Required Packages
-
-Run:
-
-```bash
-pip install -r requirements.txt
